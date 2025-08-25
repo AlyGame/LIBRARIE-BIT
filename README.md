@@ -1,4 +1,4 @@
-# Documentație librărie `Bitmi.h`
+# Documentație librărie `masina.h`
 
 Această librărie oferă o interfață simplificată pentru controlul unui robot pe roți folosind Arduino.  
 Clasa principală este **`Robot_Bitmi`**, care permite controlul direcțiilor de deplasare și rotație, folosind semnale PWM și registrul de deplasare.
@@ -8,7 +8,7 @@ Clasa principală este **`Robot_Bitmi`**, care permite controlul direcțiilor de
 ## 📌 Utilizare de bază
 
 ```cpp
-#include "Bitmi.h"
+#include "masina.h"
 
 Robot_Bitmi robot;
 
